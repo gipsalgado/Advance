@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usuarios>
+	<usuario>
+		<id>1</id>
+		<apellidos>Salgado</apellidos>
+		<nombres>Paul</nombres>
+	</usuario>
+	<usuario>
+		<id>2</id>
+		<apellidos>Tulcan</apellidos>
+		<nombres>Soraya</nombres>
+	</usuario>
+	<usuario>
+		<id>3</id>
+		<apellidos>Salgado</apellidos>
+		<nombres>Francesco</nombres>
+	</usuario>
+	<usuario>
+		<id>4</id>
+		<apellidos>Salgado</apellidos>
+		<nombres>Jose</nombres>
+	</usuario>
+</usuarios>
